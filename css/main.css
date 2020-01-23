@@ -59,6 +59,20 @@ a{
   display: inline-block;
 }
 
+.wrapper {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  margin: 0 auto;
+  max-width: 50em;
+}
+
+.image,
+.btn {
+  max-width: 100%;
+  padding: 1rem;
+}
+
 @media only screen and (min-width: 25em) {
 
 }
