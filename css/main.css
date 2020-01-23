@@ -20,28 +20,28 @@ html {
 
 /**************************** body ****************************/
 
-section{
+section {
   padding: 2rem 0;
   background-color: #e2e2e2;
 }
 
-body{
+body {
   margin: 0;
 }
 
 h1,
-p{
+p {
   margin: 0 0 1.3rem;
 }
 
-h2{
+h2 {
   font-weight: bold;
   font-size: 100%;
   margin: 0;
   margin-left: 0;
 }
 
-a:hover{
+a:hover {
   background-color: #000;
 }
 
@@ -50,7 +50,7 @@ a:hover{
   display: block;
 }
 
-a{
+a {
   background-color: #555;
   border-radius: 4px;
   color: #fff;
