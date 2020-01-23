@@ -25,6 +25,22 @@ section{
   background-color: #e2e2e2;
 }
 
+body{
+  margin: 0;
+}
+
+h1,
+p{
+  margin: 0 0 1.3rem;
+}
+
+h2{
+  font-weight: bold;
+  font-size: 100%;
+  margin: 0;
+  margin-left: 0;
+}
+
 @media only screen and (min-width: 25em) {
 
 }
