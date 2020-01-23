@@ -41,22 +41,22 @@ h2 {
   margin-left: 0;
 }
 
+a {
+  border-radius: 4px;
+  text-decoration: none;
+  display: inline-block;
+  padding: .5em .75em;
+  color: #fff;
+  background-color: #555;
+}
+
 a:hover {
   background-color: #000;
 }
 
 .img-flex {
-  width: 100%;
   display: block;
-}
-
-a {
-  background-color: #555;
-  border-radius: 4px;
-  color: #fff;
-  text-decoration: none;
-  padding: .5em .75em;
-  display: inline-block;
+  width: 100%;
 }
 
 .wrapper {
